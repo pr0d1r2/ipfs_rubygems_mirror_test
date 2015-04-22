@@ -6,5 +6,6 @@ Can we distribute ruby gems via IPFS (http://ipfs.io/)? Yes we can!
 
 Just run:
 ```
+ipfs daemon
 bundle install --verbose
 ```
